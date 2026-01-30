@@ -55,6 +55,8 @@ Test Scenarios – Login Module
 Sample Test Case – Login with Valid Credentials
 ![image alt](https://github.com/uttam512/Ecommerce-Manual-Testing-Project/blob/f3fbbe2b5ff6a3cd1406e99f4e9590a6596c085f/Sample%20Test%20Case.png)
 
+
+
 Defect Report:
 ![image alt](https://github.com/uttam512/Ecommerce-Manual-Testing-Project/blob/3b8c7c91d9724abe560dfec4b93015072976c9df/Defect%20report.png)
 
