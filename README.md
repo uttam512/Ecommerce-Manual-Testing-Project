@@ -29,14 +29,21 @@ Modules Covered
 13.	User Profile
 
 Testing Types Performed
+
 •	Functional Testing
+
 •	Smoke Testing
+
 •	Sanity Testing
+
 •	Regression Testing
+
 •	UI Testing
+
 •	Negative Testing
 
 Test Scenarios – Login Module
+
 •	Verify user is able to login with valid username/email and password
 
 •	Verify login fails with invalid username
@@ -85,26 +92,43 @@ Defect Reporting (Sample Defects)
 
 Defect 1
 •	Defect Title: Error message not displayed for invalid login
+
 •	Module: Login
+
 •	Severity: Medium
+
 •	Priority: High
+
 •	Status: Open
+
 
 Defect 2
+
 •	Defect Title: Cart total not updated after quantity change
+
 •	Module: Cart
+
 •	Severity: High
+
 •	Priority: High
+
 •	Status: Open
 
+
 Defect 3
+
 •	Defect Title: Order status not updated after cancellation
+
 •	Module: Orders
+
 •	Severity: Medium
+
 •	Priority: Medium
+
 •	Status: Open
 
 Tools Used
+
 •	Web Browser (Chrome)
 
 Conclusion
