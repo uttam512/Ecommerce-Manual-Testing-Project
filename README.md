@@ -38,17 +38,29 @@ Testing Types Performed
 
 Test Scenarios – Login Module
 •	Verify user is able to login with valid username/email and password
+
 •	Verify login fails with invalid username
+
 •	Verify login fails with invalid password
+
 •	Verify appropriate error message is displayed for invalid login attempts
+
 •	Verify login is restricted after multiple consecutive failed attempts
+
 •	Verify user is redirected to home page after successful login
+
 •	Verify user is required to re-login after logout
+
 •	Verify login is not allowed when username and/or password fields are empty
+
 •	Verify password characters are masked
+
 •	Verify “Forgot Password” option is available
+
 •	Verify login button functionality
+
 •	Verify placeholders are displayed correctly
+
 •	Verify system behavior when page is refreshed after entering credentials
 
 
