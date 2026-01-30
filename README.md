@@ -70,18 +70,21 @@ Defect Report:
 
 
 Defect Reporting (Sample Defects)
+
 Defect 1
 •	Defect Title: Error message not displayed for invalid login
 •	Module: Login
 •	Severity: Medium
 •	Priority: High
 •	Status: Open
+
 Defect 2
 •	Defect Title: Cart total not updated after quantity change
 •	Module: Cart
 •	Severity: High
 •	Priority: High
 •	Status: Open
+
 Defect 3
 •	Defect Title: Order status not updated after cancellation
 •	Module: Orders
@@ -91,6 +94,7 @@ Defect 3
 
 Tools Used
 •	Web Browser (Chrome)
+
 Conclusion
 This project helped in gaining hands-on experience in manual testing by understanding real-world e-commerce workflows, writing and executing test cases, and reporting defects effectively.
 
